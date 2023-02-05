@@ -19,7 +19,9 @@ It has also has Jupyter notebooks that was used for running the Machine Learning
 
 ## INSTALLATION - How to install and setup your code
 
-Unzip DVAProject.zip and navigate to DVAProject folder on terminal. 
+*when downloading zip of repo, encase it inside a folder called DVAProject for instructions below
+
+Navigate to DVAProject folder on terminal. 
 
 Run below commands on terminal
 
@@ -68,8 +70,10 @@ Navigate to src folder on terminal and run - python app.py . This will bring up 
 
 
 ## Members
-
-Shashank, Giang, Mike, Michael, Rama, Enrico
-
-
+Michael Ho  
+Ramakrishna Bijanapall  
+Michael Mow  
+Shashank Tripati  
+Giang Duaong  
+Enrico Eduardo  
 
