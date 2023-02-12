@@ -1,6 +1,6 @@
-# DVA Project
+# Data and visual Analytics (DVA) Project
 
-
+![My Image](DOC/team182poster.png)
 
 ## DESCRIPTION - Describe the package in a few paragraphs
 
